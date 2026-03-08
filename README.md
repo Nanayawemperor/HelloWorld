@@ -6,8 +6,13 @@ Hello World example project
 # Development Environment
 
 C#
-.net10
+
+.NET
+
 Visual Studio Code
 
 # Useful Websites
 
+[Getting Started with Visual Studio Code] (https://visualstudio.microsoft.com/vs/getting-started/)
+
+[Getting started with C#] (https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world)
