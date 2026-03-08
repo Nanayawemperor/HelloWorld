@@ -6,6 +6,8 @@ Hello World example project
 # Development Environment
 
 C#
+.net10
+Visual Studio Code
 
 # Useful Websites
 
